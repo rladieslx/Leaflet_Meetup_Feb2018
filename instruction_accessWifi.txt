@@ -1,0 +1,15 @@
+Access to Internet
+
+Connect to “isegi_guest” Wi-Fi
+
+Open Internet Explorer (it does not work with Edge or Chrome)
+
+The page in the browser will state that the site is not secure. Click “more information” and “Go on to the webpage (not recommended)”
+
+The login window will appear:
+
+User ID = “NOVAIMS”
+Password = “NOVAIMS02”
+
+(Please do not share these credentials on the internet)
+Press “Login” and you will be successfully connected. You can now use any browser
